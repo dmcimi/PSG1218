@@ -78,7 +78,7 @@ jobs:
        git clone https://github.com/Lienol/openwrt-package.git package/lienol
     #   git clone "your_github_link" package/"your_folder_name"      
 
-    - name: Configuration Customization - Build_psg1218
+    - name: Configuration Customization - Build_K2
       env:
         CONFIG_FILE: '.config'
       run: |
