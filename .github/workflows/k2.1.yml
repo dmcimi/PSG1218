@@ -75,7 +75,7 @@ jobs:
         cd openwrt
         ../$DIY_SH
     - name: SSH connection to Actions
-      uses: P3TERX/debugger-action@main
+      uses: csexton/debugger-action@master
       if: env.SSH_ACTIONS == 'true' || contains(github.event.action, 'ssh')
 
     - name: 下载dl文件包
