@@ -100,7 +100,7 @@ jobs:
     - name : Upload bin directory
       uses: actions/upload-artifact@master
       with:
-        name: OpenWrt_bin${{ env.DEVICE_NAME }}${{ env.FILE_DATE }}
+        name: OpenWrt_bin
         path: openwrt/bin
 
     - name: Organize files
