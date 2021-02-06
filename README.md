@@ -17,9 +17,11 @@ https://github.com/Lienol/openwrt-package
 
 # 最新版下载&Download Latest
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/leopardciaw/PSG1218?style=for-the-badge&label=Download)](https://github.com/leopardciaw/PSG1218/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/dmcimi/PSG1218?style=for-the-badge&label=Download)]
+(https://github.com/dmcimi/PSG1218/releases/latest)
 
 
-[所有已发布 & All Release](https://github.com/leopardciaw/PSG1218/releases)
+[所有已发布 & All Release](https://github.com/leopardciaw/PSG1218/releases)&(https://github.com/dmcimi/PSG1218/releases/latest)
 
 # 请注意
 1.集成的插件只是自己需要用到的，请多多包涵。  
