@@ -1,1 +1,1 @@
-src-git git clone https://github.com/Lienol/openwrt-package.git package/lienol
+git clone https://github.com/Lienol/openwrt-package.git package/lienol
