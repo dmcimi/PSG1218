@@ -19,7 +19,10 @@ rm -rf package/lean/luci-theme-argon
 # 拉取argon主题
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argon
 #=================================================
-
-
+# 增加插件包
+#git clone https://github.com/kenzok8/openwrt-packages.git package/lean/
+#=================================================
+# 增加插件包依赖
+#git clone https://github.com/kenzok8/small.git package/lean/
 
 
