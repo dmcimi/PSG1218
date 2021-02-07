@@ -25,4 +25,6 @@ git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lea
 # 增加插件包依赖
 #git clone https://github.com/kenzok8/small.git package/lean/
 
-
+#增加插件包
+sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
+sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
